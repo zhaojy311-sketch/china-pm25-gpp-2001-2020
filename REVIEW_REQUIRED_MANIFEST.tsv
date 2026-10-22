@@ -1,0 +1,17 @@
+path	role	origin	public_status	reason
+review_required/figure1/Figure1a_2001-2020_mean.xlsx	Figure 1 GPP mean table	王/绘图输入数据/Figure1a  2001-2020-20年均值.xlsx	HOLD	Derived scientific data; confirm creator, provenance, and permission
+review_required/figure1/Figure1b_2001-2020_trend.xlsx	Figure 1 trend table; Figure 2 map	王/绘图输入数据/Figure1b  2001-2020-20年变化率.xlsx	HOLD	Derived scientific data; upstream calculation script missing
+review_required/figure1/Figure1c-j_driver-GPP_correlations.xlsx	Figure 1 correlation tables	王/绘图输入数据/Figure1c-j  各变量与GPP皮尔逊相关系数-所有数据20年的.xlsx	HOLD	Derived scientific data; upstream calculation script missing
+review_required/figure2/regional_annual_means.xlsx	Figure 2 regional annual series	王/各分区年均值——绘制折线图.xlsx	HOLD	Derived scientific data; regional aggregation script missing
+review_required/figure3/SHAP_weighted_contributions_2001_2020.csv	Figure 3b regional bars	王/Fig3b--SHAP_regional_facets_locator_package/923放大内嵌子图/	HOLD	Derived SHAP summary; original SHAP calculation missing
+review_required/figure3/Figure3_source.pptx	Figure 3a panel source	王/图.pptx	DO_NOT_UPLOAD	159 MB source artwork with embedded panels; ownership and licensing unresolved
+review_required/figure3/Figure3c_source.pptx	Figure 3c panel source	20260727-图.pptx	DO_NOT_UPLOAD	180 MB source artwork; ownership and licensing unresolved
+review_required/figure3/Figure3c_Arial_article_style.svg	Figure 3c styled source	修改的图/Figure3c_Arial_article_style.svg	HOLD	Figure artwork, not underlying SHAP data
+review_required/figure3/Figure3c_original.png	Figure 3c raster source	王/输出/SHAP依赖图-统一字号/原始SHAP依赖图.png	HOLD	Figure artwork, not underlying SHAP data
+review_required/figure3/Figure3c_unified_4400x1814.png	Figure 3c assembly source	王/输出/SHAP依赖图-统一字号/	HOLD	Figure artwork, not underlying SHAP data
+review_required/figure4/Figure4_relative_contributions.xlsx	Figure 4 relative contributions	王/2001-2013和2013-2020-动态-各区域柱状图 - 副本.xlsx	HOLD	Values are hard-coded; generating attribution script missing
+review_required/figure4/Figure4_GPP_insets.xlsx	Figure 4 GPP inset series	王/绘图输入数据/Figure4内嵌子图.xlsx	HOLD	Derived scientific data; aggregation script missing
+review_required/figure5/Figure5_absolute_contributions.xlsx	Figure 5 signed absolute contributions	王/绘图输入数据/Figure5 实际贡献—瀑布图 - 副本.xlsx	HOLD	Values are hard-coded; normalization coefficients and generating script missing
+review_required/figure6/Fig6_top_source.png	Figure 6 visual source	Fig6上.png	HOLD	SEM source artwork; fitting data/code missing
+review_required/boundaries/china_provinces/*	Province boundaries and locator GeoJSON	王/代码/中国省级行政区划_shp and Fig3b package	DO_NOT_UPLOAD	No source citation or redistribution license found
+review_required/boundaries/south_china_sea/*	South China Sea inset boundary	王/代码/shu_ju_yuan	DO_NOT_UPLOAD	No source citation or redistribution license found

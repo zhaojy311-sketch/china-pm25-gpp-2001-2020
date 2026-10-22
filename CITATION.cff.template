@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release and the associated article."
+title: "Code for quantifying the role of PM2.5 in long-term terrestrial GPP trends across China (2001-2020)"
+type: software
+authors:
+  - family-names: "TODO"
+    given-names: "Confirm creator list and order with all authors"
+version: "0.1.0"
+date-released: "YYYY-MM-DD"
+repository-code: "https://github.com/OWNER/REPOSITORY"
+doi: "10.5281/zenodo.TODO"
+license: "TODO-after-author-approval"

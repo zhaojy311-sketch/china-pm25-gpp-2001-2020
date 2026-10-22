@@ -1,0 +1,12 @@
+R 4.5.2
+dplyr 1.1.4
+ggplot2 4.0.1
+patchwork 1.3.2
+ragg 1.5.0
+readxl 1.4.5
+scales 1.4.0
+sf 1.1.0
+systemfonts 1.3.1
+
+# These are the versions observed in the successful local rendering session.
+# System libraries required by sf and ragg are platform-dependent.
